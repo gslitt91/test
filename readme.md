@@ -6,4 +6,3 @@ remote
 local
 
 ythirs
-sdsd
